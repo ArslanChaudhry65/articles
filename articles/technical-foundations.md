@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/4554
 confluence_version: 26
 last_updated: "2025-07-31T21:02:18.113Z"
 labels: ["prd", "research", "technical-skills", "software-architecture", "sdlc", "sprint", "technical-tradeoffs", "application-architecture", "api", "roadmaps"]
-synced_at: "2026-04-29T09:58:30.478337Z"
+synced_at: "2026-04-30T09:59:22.052871Z"
 ---
 
 # Technical Foundations
