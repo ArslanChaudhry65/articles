@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1612
 confluence_version: 6
 last_updated: "2025-10-05T15:54:27.934Z"
 labels: ["gdpr", "dsgvo", "cookie-banner"]
-synced_at: "2026-04-30T09:59:23.305969Z"
+synced_at: "2026-05-01T09:26:39.107504Z"
 ---
 
 # DSGVO (GDPR)
