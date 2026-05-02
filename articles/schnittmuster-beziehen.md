@@ -1,13 +1,147 @@
 ---
 title: "Schnittmuster beziehen"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/33357825/Schnittmuster+beziehen"
-confluence_version: 1
-last_updated: "2025-10-28T13:29:57.390Z"
+confluence_version: 3
+last_updated: "2026-05-02T07:07:02.926Z"
 labels: []
-synced_at: "2026-05-01T09:26:41.932861Z"
+synced_at: "2026-05-02T08:57:50.286281Z"
 ---
 
 # Schnittmuster beziehen
+
+- # Schnittmuster-Recherche: Bundfalten-Hose im italienischen Stil
+
+## 1. Stil-Referenz
+
+**Produkt:** Positano Seersucker Airy Double Pleated Trousers  
+
+**Quelle:** [[portorichezze.com](http://portorichezze.com)]([https://portorichezze.com/products/positano-seersucker-airy-double-pleated-trousers](https://portorichezze.com/products/positano-seersucker-airy-double-pleated-trousers))
+
+-----
+
+## 2. Bezeichnung des Cuts
+
+|Sprache       |Bezeichnung                                                 |
+
+|--------------|------------------------------------------------------------|
+
+|**Englisch**  |High-Waisted Double Pleated Tapered Trousers                |
+
+|**Deutsch**   |Hochbund-Hose mit Doppelfalte und verjüngtem Bein           |
+
+|**Stilepoche**|Italienischer Sommer-Schnitt, angelehnt an 1940er/50er Jahre|
+
+-----
+
+## 3. Merkmale des Cuts (im Detail)
+
+- **Hoher Bund (High Waist):** Bund sitzt über der natürlichen Taille / Hüfte
+
+- **Doppelvorwärtsfalte (Double Forward Pleat):** Zwei Falten pro Seite, beide zeigen nach außen zur Seitennaht
+
+- **Weiter Oberschenkel:** Locker fallend im Hüft- und Oberschenkelbereich
+
+- **Verjüngtes Bein (Tapered Leg):** Ab dem Knie schmaler werdend — kein durchgehendes Wide Leg
+
+- **Tiefer, entspannter Schritt:** Keine enge Crotch-Kurve, klassische Silhouette
+
+-----
+
+## 4. Empfohlenes Schnittmuster
+
+### Korrektur zur ursprünglichen Empfehlung
+
+~Burda 6942~ → **Falsch.** Burda 6942 ist ein Abendkleid/Brautmode-Schnittmuster (Damen). Nicht relevant.
+
+### Aktuelle Empfehlung: Burda 7022 — Herrenhose mit Bundfalte
+
+|Merkmal               |Details                                         |
+
+|----------------------|------------------------------------------------|
+
+|**Varianten**         |A (Tapered) und B (Wide Straight)               |
+
+|**Bundfalten**        |Eine Bundfalte (nicht Doppelfalte)              |
+
+|**Taschen**           |Schräge Eingrifftaschen + Gesäßtasche           |
+
+|**Größen**            |44–60                                           |
+
+|**Schwierigkeitsgrad**|Mittel                                          |
+
+|**Stoffempfehlung**   |Leichte Wollstoffe, Gabardine, Leinenmischgewebe|
+
+**Welche Variante wählen?**
+
+- **Variante A** = Tapered Leg (Bein läuft zum Saum hin schmal zu) → näher am Referenzmodell
+
+- **Variante B** = Weites gerades Bein → näher am Drape-Charakter, aber kein echter Drape Cut
+
+### Einschränkungen im Vergleich zur Referenzhose
+
+|Merkmal           |Referenzhose (Positano)  |Burda 7022                |
+
+|------------------|-------------------------|--------------------------|
+
+|Bundfalten        |Doppelfalte (2 pro Seite)|Einfachfalte (1 pro Seite)|
+
+|Schnittphilosophie|Drape Cut (italienisch)  |Klassische Herrenhose     |
+
+|Hoher Bund        |Ja                       |Standard                  |
+
+> **Fazit:** Burda 7022 ist das nächstmögliche Angebot von Burda für Herren. Ein echter Drape Cut mit Doppelfalte ist im Burda-Sortiment nicht verfügbar. Variante A (Tapered Leg) ist der beste Kompromiss für Nähanfänger.
+
+-----
+
+## 5. Größenempfehlung
+
+**Konfektionsgröße:** 48 (DE)  
+
+**Burda-Schnittmustergröße:** **48**  
+
+(Burda Herren-Schnittmuster folgen direkt der deutschen Konfektionsgröße — kein Umrechnen nötig)
+
+**Typische Maße für Größe 48:**
+
+|Maß          |Wert     |
+
+|-------------|---------|
+
+|Brustumfang  |ca. 96 cm|
+
+|Taillenumfang|ca. 82 cm|
+
+|Hüftumfang   |ca. 98 cm|
+
+> **Empfehlung:** Vor dem Zuschneiden die eigenen Maße mit der Schnittmuster-Maßtabelle abgleichen, da Hosenpassform stark von individuellen Proportionen abhängt (Beinlänge, Schrittlänge).
+
+-----
+
+## 6. Anpassung: Gürtelschlaufen statt Seitenverstellband
+
+Das Originalmodell hat Seitenverstellbänder. Diese können problemlos weggelassen werden:
+
+- 5–7 Gürtelschlaufen aus Stoffstreifen (ca. 3–4 cm breit, doppelt gelegt) annähen
+
+- Kein Eingriff in den eigentlichen Schnitt erforderlich
+
+-----
+
+## 7. Stoff-Empfehlung
+
+|Option                     |Eignung                              |
+
+|---------------------------|-------------------------------------|
+
+|**Seersucker** (Baumwolle) |Original-Look, leicht, sommertauglich|
+
+|**Leichter Baumwollcanvas**|Anfängerfreundlich, verzeiht mehr    |
+
+|**Leinenmischung**         |Eleganter, etwas anspruchsvoller     |
+
+-----
+
+*Erstellt: Mai 2026*
 
 Gute Schnittmuster für stilvolle Männerkleidung zu finden ist tatsächlich **schwieriger als für Damenkleidung** - der Markt ist viel kleiner. Hier sind die besten Quellen:
 
