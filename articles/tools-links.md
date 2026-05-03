@@ -1,10 +1,10 @@
 ---
 title: "Tools & Links"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/31948801/Tools+Links"
-confluence_version: 10
-last_updated: "2026-01-08T15:00:32.333Z"
+confluence_version: 12
+last_updated: "2026-05-02T20:05:33.279Z"
 labels: []
-synced_at: "2026-05-02T08:57:48.570629Z"
+synced_at: "2026-05-03T09:15:00.280707Z"
 ---
 
 # Tools & Links
@@ -57,6 +57,12 @@ synced_at: "2026-05-02T08:57:48.570629Z"
 - Getlinkinfo - check if shortened links like [http://bit.ly](http://bit.ly) links are safe
 
 - Online convert - convert media files smaller than 100mb 
+
+- [https://www.keybr.com/de/index](https://www.keybr.com/de/index) - 10 finger typing
+
+- topoexport - 2D and 3D maps
+
+- 
 
 ## Finanzen
 - [https://www.finanzfluss.de/blog/einkommen-im-vergleich/](https://www.finanzfluss.de/blog/einkommen-im-vergleich/)  - interaktive Grafik
