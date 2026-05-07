@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9486
 confluence_version: 1
 last_updated: "2026-04-23T21:25:52.798Z"
 labels: []
-synced_at: "2026-05-06T10:10:02.171565Z"
+synced_at: "2026-05-07T10:15:08.283855Z"
 ---
 
 # Jakob's Law: Warum vertraute Muster bessere Produkte machen
