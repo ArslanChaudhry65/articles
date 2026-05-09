@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-05-08 09:06 UTC*
+*Last sync: 2026-05-09 09:09 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
@@ -10,6 +10,7 @@
 - [Eigene Website Programmieren](articles/eigene-website-programmieren.md)
 - [GitHub Issue Search - Optimiert für Product Owner ohne Dev-Background](articles/github-issue-search-optimiert-für-product-owner-ohne-dev-background.md)
 - [Hick's Law: Warum weniger Optionen bessere Produkte bauen](articles/hicks-law-warum-weniger-optionen-bessere-produkte-bauen.md)
+- [IBKR Pro + Paper Trading – Schnelleinstieg](articles/ibkr-pro-paper-trading-schnelleinstieg.md)
 - [Initial Research - AI Tools](articles/initial-research-ai-tools.md)
 - [Initial Research - Best Practice Voice Cloning](articles/initial-research-best-practice-voice-cloning.md)
 - [Instant Voice Cloning Test Text](articles/instant-voice-cloning-test-text.md)
