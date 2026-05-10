@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-05-09 09:09 UTC*
+*Last sync: 2026-05-10 09:22 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
@@ -15,6 +15,7 @@
 - [Initial Research - Best Practice Voice Cloning](articles/initial-research-best-practice-voice-cloning.md)
 - [Instant Voice Cloning Test Text](articles/instant-voice-cloning-test-text.md)
 - [Jakob's Law: Warum vertraute Muster bessere Produkte machen](articles/jakobs-law-warum-vertraute-muster-bessere-produkte-machen.md)
+- [Kurse](articles/kurse.md)
 - [LTI](articles/lti.md)
 - [Learning List](articles/learning-list.md)
 - [Lernartikel](articles/lernartikel.md)

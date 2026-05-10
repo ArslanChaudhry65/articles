@@ -1,10 +1,10 @@
 ---
 title: "IBKR Pro + Paper Trading – Schnelleinstieg"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg"
-confluence_version: 2
-last_updated: "2026-05-08T13:36:54.698Z"
+confluence_version: 3
+last_updated: "2026-05-10T06:30:36.804Z"
 labels: []
-synced_at: "2026-05-09T09:09:51.836077Z"
+synced_at: "2026-05-10T09:22:56.774645Z"
 ---
 
 # IBKR Pro + Paper Trading – Schnelleinstieg
@@ -30,6 +30,8 @@ synced_at: "2026-05-09T09:09:51.836077Z"
 - [9. Skripte](#IBKRPro+PaperTrading–Schnelleinstieg-9.Skripte)
 
 [Skript für Wertbestimmung bei der Pullback-Strategie](#IBKRPro+PaperTrading–Schnelleinstieg-SkriptfürWertbestimmungbeiderPullback-Strategie)
+
+- [10. Automatisierung mit Claude Code](#IBKRPro+PaperTrading–Schnelleinstieg-10.AutomatisierungmitClaudeCode)
 
 ## 1. Konto & Setup
 **Schritt 1: Konto eröffnen**
@@ -208,3 +210,6 @@ python pullback_analyse.py
 Die entscheidende Zeile ist die Empfehlung am Ende – das Skript sucht automatisch die Schwelle mit mindestens 20% Häufigkeit. Die Werte oben sind Beispielzahlen; deine echten Ergebnisse werden abweichen.
 
 Du kannst oben im Skript unter `EINSTELLUNGEN` Ticker, Zeitraum und Schwellen-Prozente direkt anpassen. Schick mir die Ausgabe wenn du sie hast – dann kalibrieren wir gemeinsam das X% für deine Strategie.
+
+## 10. Automatisierung mit Claude Code
+Wenn du es so einrichten willst, dass Claude Code das Skript regelmäßig ausführt und die Ergebnisse prüft, wäre das über `/schedule` oder `/loop` möglich — Sonnet 4.6 reicht dafür vollständig aus.
