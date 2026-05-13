@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-05-12 10:24 UTC*
+*Last sync: 2026-05-13 10:14 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
@@ -19,6 +19,7 @@
 - [LTI](articles/lti.md)
 - [Learning List](articles/learning-list.md)
 - [Lernartikel](articles/lernartikel.md)
+- [Miller's Law – Warum 7±2 Elemente die Grenze deines Designs setzen](articles/millers-law-warum-72-elemente-die-grenze-deines-designs-setzen.md)
 - [Mobile App Product Ownership – Research Prompt](articles/mobile-app-product-ownership-research-prompt.md)
 - [NLP entschlüsselt: Was funktioniert, was nicht, und wie Sie Manipulation erkennen](articles/nlp-entschlüsselt-was-funktioniert-was-nicht-und-wie-sie-manipulation-erkennen.md)
 - [Nähen](articles/nähen.md)
@@ -30,6 +31,7 @@
 - [Research - PO Jobs](articles/research-po-jobs.md)
 - [Research - Technical Skills prioritized](articles/research-technical-skills-prioritized.md)
 - [Schnittmuster beziehen](articles/schnittmuster-beziehen.md)
+- [Skalierung von REST APIs – Von der Theorie zur Produktrealität](articles/skalierung-von-rest-apis-von-der-theorie-zur-produktrealität.md)
 - [Systematische Innovationsframeworks für digitale Produkte – TRIZ-analoge Analyse](articles/systematische-innovationsframeworks-für-digitale-produkte-triz-analoge-analyse.md)
 - [Technical Foundations](articles/technical-foundations.md)
 - [Tools & Links](articles/tools-links.md)
