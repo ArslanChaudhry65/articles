@@ -1,10 +1,10 @@
 ---
 title: "Learning List"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/92798977/Learning+List"
-confluence_version: 9
-last_updated: "2026-04-23T21:27:03.204Z"
+confluence_version: 11
+last_updated: "2026-05-13T14:54:08.013Z"
 labels: []
-synced_at: "2026-05-13T10:14:28.940867Z"
+synced_at: "2026-05-14T10:07:01.538540Z"
 ---
 
 # Learning List
@@ -38,7 +38,9 @@ Interne Notizenseite: [https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/page
 
  | 🔴 Hoch
 
- |  |
+ | ✅ Erledigt
+
+ |
 | Best Practices for Secure & Scalable APIs (MuleSoft)
 
  | [Link](https://www.mulesoft.com/api/best-practices-building-secure-and-scalable-api)
@@ -469,14 +471,18 @@ Jedes Gesetz hat eine eigene Seite mit Erklärung, Beispielen und PM-Implikation
 
  | 🔴 Hoch
 
- |  |
+ | ✅ Erledigt
+
+ |
 | Fitts's Law – Größe & Distanz von Klickzielen
 
  | [Link](https://lawsofux.com/fittss-law/)
 
  | 🔴 Hoch
 
- |  |
+ | ✅ Erledigt
+
+ |
 | Peak-End Rule – Erinnerung an Höhepunkt & Ende
 
  | [Link](https://lawsofux.com/peak-end-rule/)

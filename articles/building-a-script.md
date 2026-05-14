@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3574
 confluence_version: 1
 last_updated: "2025-11-07T15:22:23.382Z"
 labels: []
-synced_at: "2026-05-13T10:14:27.763412Z"
+synced_at: "2026-05-14T10:07:00.195062Z"
 ---
 
 # Building a script

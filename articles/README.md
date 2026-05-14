@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-05-13 10:14 UTC*
+*Last sync: 2026-05-14 10:07 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
@@ -8,6 +8,7 @@
 - [Claude Research](articles/claude-research.md)
 - [DSGVO (GDPR)](articles/dsgvo-gdpr.md)
 - [Eigene Website Programmieren](articles/eigene-website-programmieren.md)
+- [Fitts's Law: Was Product Manager aus einem 70 Jahre alten Gesetz lernen können](articles/fittss-law-was-product-manager-aus-einem-70-jahre-alten-gesetz-lernen-können.md)
 - [GitHub Issue Search - Optimiert für Product Owner ohne Dev-Background](articles/github-issue-search-optimiert-für-product-owner-ohne-dev-background.md)
 - [Hick's Law: Warum weniger Optionen bessere Produkte bauen](articles/hicks-law-warum-weniger-optionen-bessere-produkte-bauen.md)
 - [IBKR Pro + Paper Trading – Schnelleinstieg](articles/ibkr-pro-paper-trading-schnelleinstieg.md)
