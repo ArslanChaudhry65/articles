@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/2985
 confluence_version: 1
 last_updated: "2025-10-28T17:45:29.070Z"
 labels: []
-synced_at: "2026-05-17T09:28:04.798952Z"
+synced_at: "2026-05-18T11:38:19.175401Z"
 ---
 
 # Philosophie
