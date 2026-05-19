@@ -1,10 +1,10 @@
 ---
 title: "Learning List"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/92798977/Learning+List"
-confluence_version: 11
-last_updated: "2026-05-13T14:54:08.013Z"
+confluence_version: 13
+last_updated: "2026-05-18T18:51:43.465Z"
 labels: []
-synced_at: "2026-05-18T11:38:23.472220Z"
+synced_at: "2026-05-19T10:54:32.365191Z"
 ---
 
 # Learning List
@@ -18,7 +18,6 @@ Diese Seite enthält alle Lernmaterialien, strukturiert nach vier Kategorien. Je
 
 **Hinweis System Design:** Die extrahierten Themen decken die PM-relevante Konzeptebene ab. Die übrigen Themen im ByteByteGo-Repo (Kubernetes-Internals, Cloud-Infrastruktur-Details etc.) sind kein fixes Pflichtprogramm – bei Bedarf situativ nachlesen.
 
----
 ## 1. Technische Skills
 ### 1.1 Technical Foundations (Kurs-Recap)
 Interne Notizenseite: [https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/4554753](https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/4554753/Technical+Foundations)
@@ -47,7 +46,9 @@ Interne Notizenseite: [https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/page
 
  | 🔴 Hoch
 
- |  |
+ | ✅ Erledigt
+
+ |
 | How the Web Works (YouTube)
 
  | [Link](https://www.youtube.com/watch?v=j3XufmvEMiM)
@@ -233,8 +234,6 @@ Interne Notizenseite: [https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/page
  | 🟢 Backlog
 
  |  |
-
----
 ## 2. System Design
 **Quelle:** ByteByteGo system-design-101 – [https://github.com/ByteByteGoHq/system-design-101/blob/main/README.md](https://github.com/ByteByteGoHq/system-design-101/blob/main/README.md)
 
@@ -430,8 +429,6 @@ Jedes Thema unten ist eine eigenständige Lern-Session. Anker-Links führen dire
  | 🟢 Backlog
 
  |  |
-
----
 ## 3. UX & Design
 **Hinweis:** Alle drei Quellen enthalten jeweils viele Sub-Ressourcen. Jede Zeile unten ist eine eigenständige Lern-Session.
 

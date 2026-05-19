@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-05-18 11:38 UTC*
+*Last sync: 2026-05-19 10:54 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
@@ -32,6 +32,7 @@
 - [Research - PO Jobs](articles/research-po-jobs.md)
 - [Research - Technical Skills prioritized](articles/research-technical-skills-prioritized.md)
 - [Schnittmuster beziehen](articles/schnittmuster-beziehen.md)
+- [Sichere und skalierbare APIs: Was Product Manager wissen müssen](articles/sichere-und-skalierbare-apis-was-product-manager-wissen-müssen.md)
 - [Skalierung von REST APIs – Von der Theorie zur Produktrealität](articles/skalierung-von-rest-apis-von-der-theorie-zur-produktrealität.md)
 - [Systematische Innovationsframeworks für digitale Produkte – TRIZ-analoge Analyse](articles/systematische-innovationsframeworks-für-digitale-produkte-triz-analoge-analyse.md)
 - [Technical Foundations](articles/technical-foundations.md)

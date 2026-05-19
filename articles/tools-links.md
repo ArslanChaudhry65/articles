@@ -1,10 +1,10 @@
 ---
 title: "Tools & Links"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/31948801/Tools+Links"
-confluence_version: 12
-last_updated: "2026-05-02T20:05:33.279Z"
+confluence_version: 13
+last_updated: "2026-05-19T06:02:51.248Z"
 labels: []
-synced_at: "2026-05-18T11:38:19.549702Z"
+synced_at: "2026-05-19T10:54:28.751514Z"
 ---
 
 # Tools & Links
@@ -77,6 +77,8 @@ synced_at: "2026-05-18T11:38:19.549702Z"
 - [https://httpie.io/app](https://httpie.io/app)- wie Postman aber simpler und kostenlos
 
 - [https://github.com/search?q=label%3A%22good+first+issue%22+label%3Adocumentation&type=Issues&ref=advsearch&l=&l=](https://github.com/search?q=label%3A%22good+first+issue%22+label%3Adocumentation&type=Issues&ref=advsearch&l=&l=)für versioning, Material und Möglichkeit mitzuwirken
+
+- [JSON Web Tokens - jwt.io](https://www.jwt.io/) - JWT Decoder/Encoder + Debugger
 
 ## Events
 - [https://www.apidays.global](https://www.apidays.global) API PM Messe
