@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1009
 confluence_version: 3
 last_updated: "2026-05-10T06:30:36.804Z"
 labels: []
-synced_at: "2026-05-19T10:54:35.569216Z"
+synced_at: "2026-05-20T10:43:00.649955Z"
 ---
 
 # IBKR Pro + Paper Trading – Schnelleinstieg
