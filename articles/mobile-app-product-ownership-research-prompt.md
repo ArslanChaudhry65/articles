@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9666
 confluence_version: 1
 last_updated: "2026-04-28T05:14:55.917Z"
 labels: []
-synced_at: "2026-05-22T10:42:45.444750Z"
+synced_at: "2026-05-23T09:44:30.645153Z"
 ---
 
 # Mobile App Product Ownership – Research Prompt
