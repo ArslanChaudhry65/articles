@@ -1,10 +1,10 @@
 ---
 title: "IBKR Pro + Paper Trading – Schnelleinstieg"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg"
-confluence_version: 3
-last_updated: "2026-05-10T06:30:36.804Z"
+confluence_version: 5
+last_updated: "2026-05-24T07:33:57.298Z"
 labels: []
-synced_at: "2026-05-23T09:44:31.965271Z"
+synced_at: "2026-05-24T09:48:30.558149Z"
 ---
 
 # IBKR Pro + Paper Trading – Schnelleinstieg
@@ -13,9 +13,7 @@ synced_at: "2026-05-23T09:44:31.965271Z"
 
 - [1. Konto & Setup](#IBKRPro+PaperTrading–Schnelleinstieg-1.Konto&Setup)
 
-- [2. Paper Trading Konto](#IBKRPro+PaperTrading–Schnelleinstieg-2.PaperTradingKonto)
-
-- [3. API & ib_insync Setup](#IBKRPro+PaperTrading–Schnelleinstieg-3.API&ib_insyncSetup)
+- [2. API & ib_insync Setup](#IBKRPro+PaperTrading–Schnelleinstieg-2.API&ib_insyncSetup)
 
 - [4. Broker-Anbindung checken](#IBKRPro+PaperTrading–Schnelleinstieg-4.Broker-Anbindungchecken)
 
@@ -48,39 +46,11 @@ synced_at: "2026-05-23T09:44:31.965271Z"
 
 **Schritt 2: Plattform installieren**
 
-- **TWS (Trader Workstation)** oder **IB Gateway** herunterladen
+- **TWS (Trader Workstation)** (**IB Gateway, später wenn ohne UI)** herunterladen
 
-- IB Gateway empfohlen (leichter, für Automation besser)
+- Nach Login: Paper Trading (Port: 7497 statt für echtes trading 7496) aktivieren (Schalter in den Settings)
 
-- Nach Login: Paper Trading aktivieren (Schalter in den Settings)
-
-## 2. Paper Trading Konto
-| Punkt
-
- | Details
-
- |
-| **Startkapital**
-
- | 1.000.000 $ (virtuell)
-
- |
-| **Funktionalität**
-
- | 100% identisch mit Live-Trading
-
- |
-| **Zweck**
-
- | Strategie testen ohne echtes Geld
-
- |
-| **Activation**
-
- | Im TWS/Gateway nach Login unter "Demo" wählen
-
- |
-## 3. API & ib_insync Setup
+## 2. API & ib_insync Setup
 **Installation:**
 
 pip install ib_insync
@@ -107,7 +77,7 @@ ib.disconnect()
 **Wichtig:** IB Gateway muss vor dem Script laufen!
 
 ## 4. Broker-Anbindung checken
-- IB Gateway starten
+- TWS starten
 
 - Mit deinen IBKR-Credentials einloggen
 
@@ -148,7 +118,7 @@ ib.disconnect()
 ## 6. Checkliste vor Start
 - [ ] IBKR Konto aktiviert
 
-- [ ] IB Gateway installiert & getestet
+- [ ] TWS/IB Gateway installiert & getestet
 
 - [ ] ib_insync installiert (`pip list | grep ib_insync`)
 
@@ -159,28 +129,30 @@ ib.disconnect()
 - [ ] Erste Strategie-Idee notiert (z.B. welche Regel, welche Aktie)
 
 ## 7. Nächste Schritte
-- **Backtesting:** Strategie mit Backtrader testen
+- **Backtesting:** Strategie mit Backtrader testen mind. 5 Jahre besser 10, 1d Signal
 
-- **Paper Trading:** 1–2 Wochen mit echten Daten testen
-
-- **Monitoring:** Regelmäßig Position & Ergebnisse checken
-
-- **Iteration:** Basierend auf Results anpassen
-
-- **Live-Start:** Erst dann echtes Geld (mit kleinerem Kapital)
+- **Paper Trading:** 1 Monat und mind. 30 Trades mit echten Daten testen
 
 ## 8. Wichtige Links
 - IBKR Dokumentation: [https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm](https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm) 
+
+Architektur: [https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/](https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/) 
+
+- Contracts: [https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/](https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/) 
+
+- Order Types: [https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/) 
+
+- Market Data Subscriptions: [https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/](https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/) 
 
 - ib_insync GitHub: 
 
 [https://github.com/IbPy/ib_insync](https://github.com/IbPy/ib_insync)- Backtesting (Backtrader): [https://www.backtrader.com/](https://www.backtrader.com/) 
 
-Bereit? Dann los – starte mit dem Testskript und meld dich, wenn du konkrete Fragen zur Umsetzung hast! 🚀
-
 ## 9. Skripte
+Zu bestimmende Werte, MSCI World ETF, NASDAQ, VISA, Mastercard
+
 ### Skript für Wertbestimmung bei der Pullback-Strategie
-[pullback_analyse.py](/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg?preview=%2F100990977%2F101482497%2Fpullback_analyse.py)  
+[pullback_analyse.py](/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg?preview=%2F100990977%2F101482497%2Fpullback_analyse.py)   
 
 **So startest du es:**
 
