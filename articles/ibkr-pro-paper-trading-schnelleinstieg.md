@@ -1,37 +1,88 @@
 ---
 title: "IBKR Pro + Paper Trading – Schnelleinstieg"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg"
-confluence_version: 5
-last_updated: "2026-05-24T07:33:57.298Z"
+confluence_version: 7
+last_updated: "2026-05-27T16:20:42.480Z"
 labels: []
-synced_at: "2026-05-25T11:44:36.201077Z"
+synced_at: "2026-05-28T11:30:26.659412Z"
 ---
 
 # IBKR Pro + Paper Trading – Schnelleinstieg
 
 /**/
 
-- [1. Konto & Setup](#IBKRPro+PaperTrading–Schnelleinstieg-1.Konto&Setup)
+- [Wichtige Links](#IBKRPro+PaperTrading–Schnelleinstieg-WichtigeLinks)
 
-- [2. API & ib_insync Setup](#IBKRPro+PaperTrading–Schnelleinstieg-2.API&ib_insyncSetup)
+- [Checkliste vor Start](#IBKRPro+PaperTrading–Schnelleinstieg-ChecklistevorStart)
 
-- [4. Broker-Anbindung checken](#IBKRPro+PaperTrading–Schnelleinstieg-4.Broker-Anbindungchecken)
+- [Nächste Schritte](#IBKRPro+PaperTrading–Schnelleinstieg-NächsteSchritte)
 
-- [5. Erste Strategie – Struktur](#IBKRPro+PaperTrading–Schnelleinstieg-5.ErsteStrategie–Struktur)
+- [Generelles Setup](#IBKRPro+PaperTrading–Schnelleinstieg-GenerellesSetup)
 
-- [6. Checkliste vor Start](#IBKRPro+PaperTrading–Schnelleinstieg-6.ChecklistevorStart)
+[Konto & Setup](#IBKRPro+PaperTrading–Schnelleinstieg-Konto&Setup)
 
-- [7. Nächste Schritte](#IBKRPro+PaperTrading–Schnelleinstieg-7.NächsteSchritte)
+- [API & ib_insync Setup](#IBKRPro+PaperTrading–Schnelleinstieg-API&ib_insyncSetup)
 
-- [8. Wichtige Links](#IBKRPro+PaperTrading–Schnelleinstieg-8.WichtigeLinks)
+- [Claude Strategie](#IBKRPro+PaperTrading–Schnelleinstieg-ClaudeStrategie)
 
-- [9. Skripte](#IBKRPro+PaperTrading–Schnelleinstieg-9.Skripte)
+[Erste Strategie – Struktur](#IBKRPro+PaperTrading–Schnelleinstieg-ErsteStrategie–Struktur)
 
-[Skript für Wertbestimmung bei der Pullback-Strategie](#IBKRPro+PaperTrading–Schnelleinstieg-SkriptfürWertbestimmungbeiderPullback-Strategie)
+- [Skript für Wertbestimmung bei der Pullback-Strategie](#IBKRPro+PaperTrading–Schnelleinstieg-SkriptfürWertbestimmungbeiderPullback-Strategie)
 
-- [10. Automatisierung mit Claude Code](#IBKRPro+PaperTrading–Schnelleinstieg-10.AutomatisierungmitClaudeCode)
+## Wichtige Links
+- Trader Workstation (TWS) Docu: [https://www.ibkrguides.com/traderworkstation/transfer-login-authentication.htm](https://www.ibkrguides.com/traderworkstation/transfer-login-authentication.htm) 
 
-## 1. Konto & Setup
+- IBKR API Dokumentation: [https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm](https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm) 
+
+Intro: [https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/](https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/) 
+
+- Contracts: [https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/](https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/) 
+
+- Order Types: [https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/) 
+
+Market (MKT)[https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#market-order](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#market-order) 
+
+- Stop (STP)[https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#stop-order](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#stop-order) 
+
+- Limit (LMT) [https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#limit-order](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/#limit-order) 
+
+- Market Data Subscriptions: [https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/](https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/) → lohnt sich nicht für Swing Trading, yfinance als Datenquelle ist ausreichend
+
+- ib_insync library GitHub: [https://github.com/IbPy/ib_insync](https://github.com/IbPy/ib_insync)
+
+- Backtesting (Backtrader): [https://www.backtrader.com/](https://www.backtrader.com/) 
+
+## Checkliste vor Start
+- [ ] IBKR Konto aktiviert
+
+- [ ] TWS/IB Gateway installiert & getestet
+
+- [ ] ib_insync installiert (`pip list | grep ib_insync`)
+
+- [ ] Testverbindung funktioniert (Script läuft ohne Fehler)
+
+- [ ] Paper Trading aktiviert (im Gateway sichtbar)
+
+- [ ] Erste Strategie-Idee notiert (z.B. welche Regel, welche Aktie)
+
+## Nächste Schritte
+- **Backtesting:** Strategie mit Backtrader testen mind. 5 Jahre besser 10, 1d Signal
+
+- **Paper Trading:** 1 Monat und mind. 30 Trades mit echten Daten testen
+
+Broker-Anbindung checken
+
+TWS starten
+
+- Mit deinen IBKR-Credentials einloggen
+
+- Paper Trading Modus aktivieren
+
+- Script ausführen → sollte ohne Fehler durchlaufen
+
+# Generelles Setup
+
+## Konto & Setup
 **Schritt 1: Konto eröffnen**
 
 - Webseite: [http://www.interactivebrokers.com](http://www.interactivebrokers.com) 
@@ -50,7 +101,7 @@ synced_at: "2026-05-25T11:44:36.201077Z"
 
 - Nach Login: Paper Trading (Port: 7497 statt für echtes trading 7496) aktivieren (Schalter in den Settings)
 
-## 2. API & ib_insync Setup
+## API & ib_insync Setup
 **Installation:**
 
 pip install ib_insync
@@ -76,16 +127,9 @@ ib.disconnect()
 
 **Wichtig:** IB Gateway muss vor dem Script laufen!
 
-## 4. Broker-Anbindung checken
-- TWS starten
+# Claude Strategie
 
-- Mit deinen IBKR-Credentials einloggen
-
-- Paper Trading Modus aktivieren
-
-- Script ausführen → sollte ohne Fehler durchlaufen
-
-## 5. Erste Strategie – Struktur
+## Erste Strategie – Struktur
 
 from ib_insync import *
 
@@ -115,43 +159,9 @@ if ma20 > ma50 and not position_exists:
 
 ib.disconnect()
 
-## 6. Checkliste vor Start
-- [ ] IBKR Konto aktiviert
-
-- [ ] TWS/IB Gateway installiert & getestet
-
-- [ ] ib_insync installiert (`pip list | grep ib_insync`)
-
-- [ ] Testverbindung funktioniert (Script läuft ohne Fehler)
-
-- [ ] Paper Trading aktiviert (im Gateway sichtbar)
-
-- [ ] Erste Strategie-Idee notiert (z.B. welche Regel, welche Aktie)
-
-## 7. Nächste Schritte
-- **Backtesting:** Strategie mit Backtrader testen mind. 5 Jahre besser 10, 1d Signal
-
-- **Paper Trading:** 1 Monat und mind. 30 Trades mit echten Daten testen
-
-## 8. Wichtige Links
-- IBKR Dokumentation: [https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm](https://interactivebrokers.com/en/software/tws/usersguidebook/introduction/introduction.htm) 
-
-Architektur: [https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/](https://www.interactivebrokers.com/campus/ibkr-api-page/getting-started/) 
-
-- Contracts: [https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/](https://www.interactivebrokers.com/campus/ibkr-api-page/contracts/) 
-
-- Order Types: [https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/](https://www.interactivebrokers.com/campus/ibkr-api-page/order-types/) 
-
-- Market Data Subscriptions: [https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/](https://www.interactivebrokers.com/campus/ibkr-api-page/market-data-subscriptions/) 
-
-- ib_insync GitHub: 
-
-[https://github.com/IbPy/ib_insync](https://github.com/IbPy/ib_insync)- Backtesting (Backtrader): [https://www.backtrader.com/](https://www.backtrader.com/) 
-
-## 9. Skripte
+## Skript für Wertbestimmung bei der Pullback-Strategie
 Zu bestimmende Werte, MSCI World ETF, NASDAQ, VISA, Mastercard
 
-### Skript für Wertbestimmung bei der Pullback-Strategie
 [pullback_analyse.py](/wiki/spaces/PS/pages/100990977/IBKR+Pro+Paper+Trading+Schnelleinstieg?preview=%2F100990977%2F101482497%2Fpullback_analyse.py)   
 
 **So startest du es:**
@@ -182,6 +192,3 @@ python pullback_analyse.py
 Die entscheidende Zeile ist die Empfehlung am Ende – das Skript sucht automatisch die Schwelle mit mindestens 20% Häufigkeit. Die Werte oben sind Beispielzahlen; deine echten Ergebnisse werden abweichen.
 
 Du kannst oben im Skript unter `EINSTELLUNGEN` Ticker, Zeitraum und Schwellen-Prozente direkt anpassen. Schick mir die Ausgabe wenn du sie hast – dann kalibrieren wir gemeinsam das X% für deine Strategie.
-
-## 10. Automatisierung mit Claude Code
-Wenn du es so einrichten willst, dass Claude Code das Skript regelmäßig ausführt und die Ergebnisse prüft, wäre das über `/schedule` oder `/loop` möglich — Sonnet 4.6 reicht dafür vollständig aus.
