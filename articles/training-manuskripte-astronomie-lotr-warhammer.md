@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3227
 confluence_version: 3
 last_updated: "2025-10-28T17:44:24.242Z"
 labels: ["eleven-labs", "voice-cloning", "research", "manuskripte"]
-synced_at: "2026-05-28T11:30:19.968371Z"
+synced_at: "2026-05-29T11:20:36.337763Z"
 ---
 
 # Training Manuskripte - Astronomie, LOTR & Warhammer
