@@ -4,12 +4,12 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/overview"
 confluence_version: 4
 last_updated: "2025-10-05T13:28:29.658Z"
 labels: []
-synced_at: "2026-05-31T10:08:07.306631Z"
+synced_at: "2026-06-01T13:28:38.429585Z"
 ---
 
 # Personal Scrum Home
 
-[data-colorid=hcdkrxl7uu]{color:#4c9aff} html[data-color-mode=dark] [data-colorid=hcdkrxl7uu]{color:#004eb3}[data-colorid=re9ywxl4hg]{color:#bf2600} html[data-color-mode=dark] [data-colorid=re9ywxl4hg]{color:#ff6640}[data-colorid=pvn2452cpl]{color:#36b37e} html[data-color-mode=dark] [data-colorid=pvn2452cpl]{color:#4cc994}[data-colorid=j6ee2oroqn]{color:#6554c0} html[data-color-mode=dark] [data-colorid=j6ee2oroqn]{color:#503fab}[data-colorid=pr0vawtqto]{color:#6554c0} html[data-color-mode=dark] [data-colorid=pr0vawtqto]{color:#503fab}[data-colorid=zq7fjp0jhx]{color:#ffc400} html[data-color-mode=dark] [data-colorid=zq7fjp0jhx]{color:#ffc400}
+[data-colorid=jbs9n7d44w]{color:#36b37e} html[data-color-mode=dark] [data-colorid=jbs9n7d44w]{color:#4cc994}[data-colorid=zqqyof8r2v]{color:#6554c0} html[data-color-mode=dark] [data-colorid=zqqyof8r2v]{color:#503fab}[data-colorid=ep1xwashda]{color:#bf2600} html[data-color-mode=dark] [data-colorid=ep1xwashda]{color:#ff6640}[data-colorid=pkzuamllf5]{color:#ffc400} html[data-color-mode=dark] [data-colorid=pkzuamllf5]{color:#ffc400}[data-colorid=lnkdk2owtr]{color:#4c9aff} html[data-color-mode=dark] [data-colorid=lnkdk2owtr]{color:#004eb3}[data-colorid=cx8at0agrq]{color:#6554c0} html[data-color-mode=dark] [data-colorid=cx8at0agrq]{color:#503fab}
 ## **Welcome to your new space!**
 Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.
 
