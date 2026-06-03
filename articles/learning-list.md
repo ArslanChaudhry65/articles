@@ -1,10 +1,10 @@
 ---
 title: "Learning List"
 confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/92798977/Learning+List"
-confluence_version: 13
-last_updated: "2026-05-18T18:51:43.465Z"
+confluence_version: 14
+last_updated: "2026-06-02T15:18:07.188Z"
 labels: []
-synced_at: "2026-06-02T11:57:41.474902Z"
+synced_at: "2026-06-03T12:31:18.468312Z"
 ---
 
 # Learning List
@@ -599,3 +599,13 @@ Jedes Gesetz hat eine eigene Seite mit Erklärung, Beispielen und PM-Implikation
  | 🟢 Backlog
 
  |  |
+### Maven Ressourcen
+- [AI Analytics for Builders](https://maven.com/x/ai-analytics-for-builders?utm_campaign=ai-analytics-for-builders-series&utm_source=maven&utm_medium=email&utm_content=inline-text&ajs_uid=788373) x Amplitude
+
+[https://maven.com/p/43b70b/ai-feature-analytics-a-practical-framework](https://maven.com/p/43b70b/ai-feature-analytics-a-practical-framework) 
+
+- [https://maven.com/p/e0e32c/agent-evals-101-best-practices-for-ai-product-teams](https://maven.com/p/e0e32c/agent-evals-101-best-practices-for-ai-product-teams) 
+
+- [https://maven.com/p/b3a0fe/use-ai-research-to-discover-who-actually-wants-what-you-sell](https://maven.com/p/b3a0fe/use-ai-research-to-discover-who-actually-wants-what-you-sell) 
+
+- [https://maven.com/p/56acc3/fix-4-errors-in-ai-data-analysis-before-the-ceo-sees-it](https://maven.com/p/56acc3/fix-4-errors-in-ai-data-analysis-before-the-ceo-sees-it)
