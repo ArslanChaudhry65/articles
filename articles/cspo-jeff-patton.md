@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1255
 confluence_version: 6
 last_updated: "2025-08-10T17:39:38.658Z"
 labels: ["cspo", "sdlc", "jeff-patton", "okr", "agile", "scrum", "user-story-mapping", "user-stories", "collaboration", "discovery"]
-synced_at: "2026-06-04T10:55:40.504743Z"
+synced_at: "2026-06-05T11:18:47.041889Z"
 ---
 
 # CSPO - Jeff Patton
