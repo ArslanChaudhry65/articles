@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9673
 confluence_version: 1
 last_updated: "2026-04-28T05:22:34.314Z"
 labels: []
-synced_at: "2026-06-10T11:31:24.810937Z"
+synced_at: "2026-06-11T12:03:40.076360Z"
 ---
 
 # Systematische Innovationsframeworks für digitale Produkte – TRIZ-analoge Analyse

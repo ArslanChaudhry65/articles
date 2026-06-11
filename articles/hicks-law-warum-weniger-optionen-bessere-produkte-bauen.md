@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9315
 confluence_version: 2
 last_updated: "2026-04-19T07:01:19.211Z"
 labels: []
-synced_at: "2026-06-10T11:31:22.177899Z"
+synced_at: "2026-06-11T12:03:37.576848Z"
 ---
 
 # Hick's Law: Warum weniger Optionen bessere Produkte bauen
