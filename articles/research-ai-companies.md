@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/5475
 confluence_version: 1
 last_updated: "2025-12-18T15:18:24.510Z"
 labels: []
-synced_at: "2026-06-21T11:00:05.475178Z"
+synced_at: "2026-06-22T13:27:02.322641Z"
 ---
 
 # Research - AI companies
