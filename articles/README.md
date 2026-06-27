@@ -1,5 +1,5 @@
 # Synced Articles
-*Last sync: 2026-06-26 10:43 UTC*
+*Last sync: 2026-06-27 09:57 UTC*
 
 - [Assignments](articles/assignments.md)
 - [Audio Anforderung fur Voice Cloning](articles/audio-anforderung-fur-voice-cloning.md)
