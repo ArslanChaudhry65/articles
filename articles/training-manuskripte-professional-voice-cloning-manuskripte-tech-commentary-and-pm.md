@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3306
 confluence_version: 4
 last_updated: "2025-10-28T17:44:47.592Z"
 labels: []
-synced_at: "2026-06-27T09:57:01.087418Z"
+synced_at: "2026-06-28T10:21:10.447332Z"
 ---
 
 # Training Manuskripte - Professional Voice Cloning Manuskripte Tech Commentary and PM

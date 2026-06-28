@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/5108
 confluence_version: 2
 last_updated: "2025-12-10T18:44:55.746Z"
 labels: []
-synced_at: "2026-06-27T09:57:01.760468Z"
+synced_at: "2026-06-28T10:21:11.361963Z"
 ---
 
 # Eigene Website Programmieren

@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9666
 confluence_version: 1
 last_updated: "2026-04-28T05:29:17.208Z"
 labels: []
-synced_at: "2026-06-27T09:57:03.731422Z"
+synced_at: "2026-06-28T10:21:14.165872Z"
 ---
 
 # NLP entschlüsselt: Was funktioniert, was nicht, und wie Sie Manipulation erkennen

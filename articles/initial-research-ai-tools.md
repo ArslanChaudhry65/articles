@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3440
 confluence_version: 8
 last_updated: "2025-10-28T17:43:18.754Z"
 labels: []
-synced_at: "2026-06-27T09:56:57.657997Z"
+synced_at: "2026-06-28T10:21:05.221864Z"
 ---
 
 # Initial Research - AI Tools
