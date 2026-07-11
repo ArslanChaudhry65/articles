@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1043
 confluence_version: 1
 last_updated: "2026-05-13T14:52:13.182Z"
 labels: []
-synced_at: "2026-07-10T10:44:49.292609Z"
+synced_at: "2026-07-11T09:18:17.352416Z"
 ---
 
 # Fitts's Law: Was Product Manager aus einem 70 Jahre alten Gesetz lernen können
