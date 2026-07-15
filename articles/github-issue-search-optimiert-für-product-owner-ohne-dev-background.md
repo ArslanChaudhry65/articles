@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9669
 confluence_version: 1
 last_updated: "2026-04-28T05:18:52.411Z"
 labels: []
-synced_at: "2026-07-14T09:47:58.866078Z"
+synced_at: "2026-07-15T09:51:33.092097Z"
 ---
 
 # GitHub Issue Search - Optimiert für Product Owner ohne Dev-Background
