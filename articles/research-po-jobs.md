@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9673
 confluence_version: 1
 last_updated: "2026-04-28T06:07:35.941Z"
 labels: []
-synced_at: "2026-07-16T09:58:20.870831Z"
+synced_at: "2026-07-17T09:48:19.102491Z"
 ---
 
 # Research - PO Jobs

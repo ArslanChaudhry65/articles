@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3273
 confluence_version: 4
 last_updated: "2025-10-28T13:24:45.303Z"
 labels: []
-synced_at: "2026-07-16T09:58:15.448813Z"
+synced_at: "2026-07-17T09:48:12.061781Z"
 ---
 
 # Nähen
