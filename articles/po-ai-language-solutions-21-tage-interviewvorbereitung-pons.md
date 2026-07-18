@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9673
 confluence_version: 1
 last_updated: "2026-04-28T05:57:38.378Z"
 labels: []
-synced_at: "2026-07-17T09:48:18.741118Z"
+synced_at: "2026-07-18T09:15:51.524392Z"
 ---
 
 # PO AI Language Solutions – 21-Tage-Interviewvorbereitung PONS
