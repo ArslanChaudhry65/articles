@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1063
 confluence_version: 1
 last_updated: "2026-05-18T18:41:22.512Z"
 labels: []
-synced_at: "2026-07-22T10:16:21.367573Z"
+synced_at: "2026-07-23T10:12:31.327086Z"
 ---
 
 # Sichere und skalierbare APIs: Was Product Manager wissen müssen
