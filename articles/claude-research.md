@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/9663
 confluence_version: 1
 last_updated: "2026-04-28T05:12:46.006Z"
 labels: []
-synced_at: "2026-07-31T10:28:50.790301Z"
+synced_at: "2026-08-01T09:50:13.140803Z"
 ---
 
 # Claude Research
