@@ -1,0 +1,14 @@
+{
+  "name": "briefkopfvorlage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Briefbogen nach DIN 5008 Form B, gestaltet nach der Design Identity",
+  "scripts": {
+    "fonts": "./fonts.sh",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "docx": "^9.5.1",
+    "jszip": "^3.10.1"
+  }
+}
