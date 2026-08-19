@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/2654
 confluence_version: 1
 last_updated: "2025-07-21T13:40:58.689Z"
 labels: ["research", "technical-skills"]
-synced_at: "2026-08-18T08:24:09.437929Z"
+synced_at: "2026-08-19T08:25:04.975830Z"
 ---
 
 # Research - Technical Skills prioritized
