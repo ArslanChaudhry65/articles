@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1024
 confluence_version: 2
 last_updated: "2026-05-10T05:39:25.443Z"
 labels: []
-synced_at: "2026-08-23T08:19:01.177233Z"
+synced_at: "2026-08-24T08:37:05.940792Z"
 ---
 
 # Kurse
