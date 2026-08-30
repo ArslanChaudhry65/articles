@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3303
 confluence_version: 2
 last_updated: "2025-10-28T19:11:28.609Z"
 labels: []
-synced_at: "2026-08-29T13:29:10.882142Z"
+synced_at: "2026-08-30T13:25:20.613953Z"
 ---
 
 # Audio Anforderung fur Voice Cloning
