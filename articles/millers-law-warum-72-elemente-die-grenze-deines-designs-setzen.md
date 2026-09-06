@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1037
 confluence_version: 2
 last_updated: "2026-05-12T15:15:47.612Z"
 labels: []
-synced_at: "2026-09-05T11:29:32.555821Z"
+synced_at: "2026-09-06T11:50:24.155960Z"
 ---
 
 # Miller's Law – Warum 7±2 Elemente die Grenze deines Designs setzen
