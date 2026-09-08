@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/3335
 confluence_version: 3
 last_updated: "2026-05-02T07:07:02.926Z"
 labels: []
-synced_at: "2026-09-07T13:48:50.195014Z"
+synced_at: "2026-09-08T12:25:02.058927Z"
 ---
 
 # Schnittmuster beziehen
