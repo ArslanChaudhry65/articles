@@ -4,7 +4,7 @@ confluence_url: "https://arslan-chaudhry.atlassian.net/wiki/spaces/PS/pages/1037
 confluence_version: 2
 last_updated: "2026-05-12T15:15:24.810Z"
 labels: []
-synced_at: "2026-09-16T12:57:21.979691Z"
+synced_at: "2026-09-17T12:53:52.202214Z"
 ---
 
 # Skalierung von REST APIs – Von der Theorie zur Produktrealität
